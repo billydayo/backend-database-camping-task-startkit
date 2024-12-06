@@ -6,7 +6,6 @@
 --   █ █   █████ █   █     █ 
 -- ===================== ====================
 -- 1. 用戶資料，資料表為 USER
-select * from "USER";
 -- 1. 新增：新增六筆用戶資料，資料如下：
 --     1. 用戶名稱為`李燕容`，Email 為`lee2000@hexschooltest.io`，Role為`USER`
 --     2. 用戶名稱為`王小明`，Email 為`wXlTq@hexschooltest.io`，Role為`USER`
