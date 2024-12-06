@@ -288,7 +288,7 @@ order by coach_total desc
 limit 1;
 -- 6-3. 查詢：計算 11 月份組合包方案的銷售數量
 -- 顯示須包含以下欄位： 組合包方案名稱, 銷售數量
-select 
+select  
   "CREDIT_PACKAGE".name as "組合包方案名稱",
   count(*) as "銷售數量"
 from "CREDIT_PURCHASE"
